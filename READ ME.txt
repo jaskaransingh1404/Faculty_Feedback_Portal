@@ -1,0 +1,10 @@
+FOLLOW THESE STEPS:
+>>CREATE DATABASE facultyfeedback in mysql with USERNAME:root PASSWORD: ""
+1.IMPORT feedback (sql text file) to database in mysql
+2.IMPORT Aero(2nd).csv, CSE(1st).csv, CSE(2nd).csv, CSE(4th).csv in student table.
+3.IMPORT branch.csv in branch table
+4.IMPORT department.csv in department table
+5.IMPORT courses.csv in course table
+6.IMPORT admin.csv in administrator table
+7.IMPORT teacher.csv in teacher table
+8.IMPORT mapping(cse2).csv in facultystudentmapping table
